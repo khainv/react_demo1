@@ -1,3 +1,3 @@
 git clone path-git
 git checkout -b lession7
-abc
+https://www.youtube.com/watch?v=MkdWf-u9p_A&list=PLRhlTlpDUWszyvcZatbnMIAVDBmLr_7kc&index=9 (21p14)
