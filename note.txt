@@ -12,3 +12,4 @@ Gộp vào nhánh source code chính: git checkout master && git merge feature-0
 Đẩy code lên account cá nhân: git push origin master
 Vô link project gốc thấy cái nút Pull Request , click vào để điền nội dung merge code vào project chính.
 Trùm của project chính, thấy có ông nào đó PR lên, vô săm soi xem code có ok không, nếu được thì merge và push lên mainstream
+================
