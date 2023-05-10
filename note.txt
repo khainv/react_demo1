@@ -1,1 +1,1 @@
-thử push xem vao dau
+git clone path-git
