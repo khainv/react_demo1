@@ -4,3 +4,4 @@ git checkout -b lession7
 thay Routes =Switch (file App.tsx)
 https://www.youtube.com/watch?v=MkdWf-u9p_A&list=PLRhlTlpDUWszyvcZatbnMIAVDBmLr_7kc&index=9 (21p14)
 https://www.youtube.com/watch?v=lZTaQu0lNdI (github hay)
+
